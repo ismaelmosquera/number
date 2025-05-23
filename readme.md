@@ -1,7 +1,7 @@
   
 #### **NUMBER SET**  
   
-This software package write in the Java programming language has been developed, mainly,  
+This software package written in the Java programming language has been developed, mainly,  
 for educational pourposes, not to put in production.  
 That is because the implementation is not efficient at execution time.  
   
