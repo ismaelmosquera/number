@@ -14,7 +14,7 @@ The idea was to demonstrate the existing number sets:
 > - Complex ( C ).  
 >  
   
-where N included in Z included in Q included in R included in C.  
+where N included in Z included in Q included in R included in C  
   
 What is interesting in this work is that all the methods ( you also call them functions in this case ),  
 are all coded from the scratch.  
