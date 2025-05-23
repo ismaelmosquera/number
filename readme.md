@@ -33,5 +33,5 @@ If you are interested in knowing how to develop these fundamental mathematic fun
 There is an API documentation and examples for every numerical set.  
 We hope that you appreciate and enjoy this work.  
   
-    )   
+      
 
