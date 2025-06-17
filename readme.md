@@ -17,12 +17,12 @@ The idea was to demonstrate the existing number sets:
 where N included in Z included in Q included in R included in C  
   
 What is interesting in this work is that all the methods ( you also call them functions in this case ),  
-are all coded from the scratch.  
+were all coded from the scratch.  
 Special attention to the RealNumber class where you can find how to implement functions such as:  
 >  
-> - Analitic functions ( exp, log, log2, log10, pow, sqrt, curt, ithrt ...  
-> - Trigonometric functions and its inverses.  
-> - Hyperbolic functions.  
+> - Analitic functions ( exp, log, log2, log10, pow, sqrt, curt, ithrt  
+> - Trigonometric functions: sin, cos, asin, acos, tan, atan, atan2  
+> - Hyperbolic functions: sinh, cosh, tanh, atanh  
 > - Other general purpose funcions.  
 >  
   
